@@ -1,6 +1,9 @@
 node_modules/
+Web/node_modules/
 build/
+Web/build/
 dist/
+Web/dist/
 coverage/
 .DS_Store
 *.log
@@ -8,7 +11,7 @@ coverage/
 !.env.example
 
 # Java compiled output & temp databases
-java/out/
+commandPrompt/out/
 *.class
 *.db
 *.mv.db

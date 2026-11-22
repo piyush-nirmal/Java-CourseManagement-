@@ -1,8 +1,8 @@
-import schemaSql from '../../java/schema.sql?raw';
-import courseJava from '../../java/src/Course.java?raw';
-import courseDaoJava from '../../java/src/CourseDAO.java?raw';
-import courseManagementSystemJava from '../../java/src/CourseManagementSystem.java?raw';
-import readmeMd from '../../java/README.md?raw';
+import schemaSql from '../../../commandPrompt/schema.sql?raw';
+import courseJava from '../../../commandPrompt/src/Course.java?raw';
+import courseDaoJava from '../../../commandPrompt/src/CourseDAO.java?raw';
+import courseManagementSystemJava from '../../../commandPrompt/src/CourseManagementSystem.java?raw';
+import readmeMd from '../../../commandPrompt/README.md?raw';
 
 export interface SourceFileEntry {
   id: string;
