@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Java compiled output & temp databases
+java/out/
+*.class
+*.db
+*.mv.db
+*.trace.db
+
+# IDEs
+.idea/
+.vscode/

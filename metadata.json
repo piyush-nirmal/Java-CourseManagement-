@@ -1,0 +1,6 @@
+{
+  "name": "CourseDB — Java JDBC & MySQL Course Management System",
+  "description": "Complete Java JDBC and MySQL Course Management System with DAO architecture, PreparedStatement CRUD operations, interactive CLI console simulator, and source explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
